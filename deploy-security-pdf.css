@@ -1,0 +1,13 @@
+.pdf-date span {
+  display: none;
+}
+.pdf-date:after {
+  content: "5/31/2023";
+}
+
+.date span {
+  display: none;
+}
+.date:after {
+  content: "5/31/2023";
+}
