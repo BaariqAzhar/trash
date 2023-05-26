@@ -13,8 +13,5 @@
 }
 
 #pdf-date2 {
-  display: none;
-}
-#pdf-date2::after {
-  display: none;
+  color: blue;
 }
